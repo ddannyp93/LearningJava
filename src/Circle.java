@@ -1,5 +1,5 @@
 public class Circle extends Shapes {
-    private int radius;
+    private final int radius;
 
     public Circle(int x, int y, int radius) {
 
