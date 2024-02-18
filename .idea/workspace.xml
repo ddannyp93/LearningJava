@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="758da7ea-a0b1-4a89-a343-92b15b4950e0" name="Changes" comment="Cleaned up main method">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="758da7ea-a0b1-4a89-a343-92b15b4950e0" name="Changes" comment="renamed circle">
+      <change beforePath="$PROJECT_DIR$/src/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <workItem from="1708256081947" duration="141000" />
       <workItem from="1708256282834" duration="311000" />
       <workItem from="1708256600491" duration="167000" />
-      <workItem from="1708256903326" duration="2792000" />
+      <workItem from="1708256903326" duration="3350000" />
     </task>
     <task id="LOCAL-00001" summary="Start">
       <option name="closed" value="true" />
@@ -128,7 +128,31 @@
       <option name="project" value="LOCAL" />
       <updated>1708259465747</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created my Rectangle">
+      <option name="closed" value="true" />
+      <created>1708259945764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1708259945764</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Circle class created">
+      <option name="closed" value="true" />
+      <created>1708260039468</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708260039468</updated>
+    </task>
+    <task id="LOCAL-00009" summary="renamed circle">
+      <option name="closed" value="true" />
+      <created>1708260146921</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708260146921</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +174,10 @@
     <MESSAGE value="Start 2.0" />
     <MESSAGE value="Created Rectangle child class" />
     <MESSAGE value="Cleaned up main method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned up main method" />
+    <MESSAGE value="Created my Rectangle" />
+    <MESSAGE value="Circle class created" />
+    <MESSAGE value="renamed circle" />
+    <option name="LAST_COMMIT_MESSAGE" value="renamed circle" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
