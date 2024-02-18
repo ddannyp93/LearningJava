@@ -1,5 +1,5 @@
-public class Cricle extends Shapes {
-    public Cricle(int x, int y) {
+public class Circle extends Shapes {
+    public Circle(int x, int y, int radius) {
         super(x, y);
     }
 
